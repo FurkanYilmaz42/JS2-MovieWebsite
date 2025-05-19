@@ -11,8 +11,10 @@ A clean and responsive movie browsing website that fetches data from a movie API
 ✅ Responsive Design
 Adapts seamlessly to all screen sizes with a minimal and clean layout.
 
+
 ✅ API Integration
 Movie data is fetched dynamically from a public API.
+
 
 ✅ Interactive Movie Cards
 
@@ -20,13 +22,16 @@ Hover over a card to view the movie's overview
 
 Below the card: Movie title and rating are clearly displayed
 
+
 ✅ Search Functionality
 
 Search for a specific movie by name
 
 Or find all movies containing the keyword you entered
 
+
 🛠️ Technologies Used
+
 HTML – structure
 
 CSS – styling and responsiveness
